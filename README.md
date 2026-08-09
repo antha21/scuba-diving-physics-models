@@ -1,7 +1,6 @@
 # Diving into the Depths: Unraveling the Hidden Dynamics of Pressure and Volume in Scuba Diving
 
 **Author:** Anthony Artino
-
 **Institution:** Kent State University, Department of Mathematical Sciences  
 **Course:** Modeling Projects (MATH 42039) 
 
