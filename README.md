@@ -1,5 +1,9 @@
 # Diving into the Depths: Unraveling the Hidden Dynamics of Pressure and Volume in Scuba Diving
-A comprehensive report along with MATLAB scripts that model the physical dynamics of scuba diving. This contains the applications of Boyle's Law on lung capacity, the temperature of seawater density across different global locations, and also the diver's suit compression.
+
+**Author:** Anthony Artino
+
+## Project Overview:
+This is a comprehensive report consisting of MATLAB scripts that help model the physical dynamics of scuba diving. This contains the applications of Boyle's Law on lung capacity, the temperature of seawater density across different global locations, and also the diver's suit compression.
 
 ## Core Objectives & Models
 This repository contains three distinct mathematical models, each simulating a specific underwater physical phenomenon:
@@ -26,5 +30,3 @@ This repository contains three distinct mathematical models, each simulating a s
 * Clone the repository to your local machine.
 * Open the **src/** directory in your MATLAB/Octave environment.
 * Run the scripts individually. Each script will automatically clear the workspace to prevent variable overlap and generate the respective depth-volume-pressure plots.
-
-**Author:** Anthony Artino
