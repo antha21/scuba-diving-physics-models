@@ -8,7 +8,7 @@ A comprehensive report along with MATLAB scripts that model the physical dynamic
 ## How to Run the Code
 * The scripts in this repository can be executed in either MATLAB or GNU Octave.
 * Clone the repository to your local machine.
-* Open the **src** / directory in your MATLAB/Octave environment.
+* Open the **src/** directory in your MATLAB/Octave environment.
 * Run the scripts individually. Each script will automatically clear the workspace to prevent variable overlap and generate the respective depth-volume-pressure plots.
 
 **Author:** Anthony Artino
