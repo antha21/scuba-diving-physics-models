@@ -1,4 +1,4 @@
-# scuba-diving-physics-models
+# Diving into the Depths: Unraveling the Hidden Dynamics of Pressure and Volume in Scuba Diving
 A comprehensive report along with MATLAB scripts that model the physical dynamics of scuba diving. This contains the applications of Boyle's Law on lung capacity, the temperature of seawater density across different global locations, and also the diver's suit compression.
 
 ## Technologies & Tools
