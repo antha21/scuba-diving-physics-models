@@ -1,6 +1,8 @@
 # Diving into the Depths: Unraveling the Hidden Dynamics of Pressure and Volume in Scuba Diving
 
 **Author:** Anthony Artino
+**Institution:** Kent State University, Department of Mathematical Sciences  
+**Course:** Modeling Projects (MATH 42039) 
 
 ## Project Overview:
 This is a comprehensive report consisting of MATLAB scripts that help model the physical dynamics of scuba diving. This contains the applications of Boyle's Law on lung capacity, the temperature of seawater density across different global locations, and also the diver's suit compression.
