@@ -11,7 +11,7 @@ This repository contains three distinct mathematical models, each simulating a s
 
 ### 2. Environmental Impacts on Seawater Density (SeawaterLocationModel.m)
 * Expands the baseline model to account for multi-variable environmental conditions across three global locations with varying seawater temperatures: Juneau, Alaska (10 °C), Paita, Peru (20 °C), and Savannah Beach, Georgia (30 °C).
-* Applies the seawater density equation ($\rho(T)=\rho_{0}(1-\beta(T-T_{0}))$) to demonstrate how temperature-induced density changes affect the rate of lung volume compression at depth.
+* Applies the seawater density equation $\rho(T)=\rho_{0}(1-\beta(T-T_{0}))$ to demonstrate how temperature-induced density changes affect the rate of lung volume compression at depth. 
 
 ### 3. Diver Suit Compression (SuitPressureVolume.m)
 * Models the compression of air inside a diver's suit (initial volume: 8L) as depth increases.
